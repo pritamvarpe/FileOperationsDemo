@@ -48,3 +48,17 @@ GitHub was used to host the project repository, making it accessible for collabo
 Although IntelliJ handled most of the work, I also used the command line for compiling and running Java files directly with javac and java commands.
 
 This improved my understanding of how the Java compiler and runtime environment work.
+
+Alongside technical tools, I also relied on learning resources that provided explanations, tutorials, and problem-solving guidance during the project:
+
+5] . YouTube Videos
+
+YouTube was an important platform for learning practical aspects of file handling in Java. Watching video tutorials made complex concepts easier to understand, as they combined theoretical explanations with live coding examples. It also helped me debug issues by following step-by-step demonstrations.
+
+6] . ChatGPT
+
+ChatGPT acted as an on-demand assistant throughout the project. Whenever I faced doubts, needed code explanations, or wanted alternative approaches, ChatGPT provided quick and clear solutions. It also helped in generating documentation and improving the project description.
+
+7] . GeeksforGeeks
+
+GeeksforGeeks was one of the most valuable reference sites I used. It offered in-depth articles and coding examples for file handling in Java, including the use of classes like FileReader, FileWriter, BufferedReader, and BufferedWriter. Its problem-solving tutorials gave me confidence in applying theoretical concepts to real coding tasks.
