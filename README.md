@@ -17,7 +17,7 @@ Description:
 
 For developing the Java project FileOperationsDemo, I used the following tools and technologies:
 
-IntelliJ IDEA
+1] IntelliJ IDEA
 
 The main Integrated Development Environment (IDE) used to write, debug, and run the Java program.
 
@@ -25,13 +25,13 @@ It provided features like syntax highlighting, intelligent code completion, and 
 
 The inbuilt terminal and project structure management helped in organizing source files properly.
 
-Java Development Kit (JDK)
+2] Java Development Kit (JDK)
 
 The JDK was essential for compiling and running the Java program.
 
 It provided the core Java libraries (like java.io and java.nio.file) that were used to perform file handling operations such as creating, reading, writing, and modifying text files.
 
-Java Runtime Environment (JRE)
+3] Java Runtime Environment (JRE)
 
 The JRE executed the compiled bytecode of the program.
 
@@ -43,7 +43,7 @@ Git was used for version control, allowing me to track changes in the project an
 
 GitHub was used to host the project repository, making it accessible for collaboration, backup, and showcasing on my profile.
 
-Command Line / Terminal
+4] Command Line / Terminal
 
 Although IntelliJ handled most of the work, I also used the command line for compiling and running Java files directly with javac and java commands.
 
