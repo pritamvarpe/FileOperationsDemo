@@ -1,0 +1,3 @@
+Hello, this is the updated content.
+This is line 2.
+This line was appended later.
