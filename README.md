@@ -62,3 +62,6 @@ ChatGPT acted as an on-demand assistant throughout the project. Whenever I faced
 7] . GeeksforGeeks
 
 GeeksforGeeks was one of the most valuable reference sites I used. It offered in-depth articles and coding examples for file handling in Java, including the use of classes like FileReader, FileWriter, BufferedReader, and BufferedWriter. Its problem-solving tutorials gave me confidence in applying theoretical concepts to real coding tasks.
+
+#output
+<img width="956" height="501" alt="Image" src="https://github.com/user-attachments/assets/da8c03d1-6c8d-4114-9969-02e0d1b6ea87" />
